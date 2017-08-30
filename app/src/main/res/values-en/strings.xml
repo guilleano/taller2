@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">workshop2</string>
+    <string name="adidas">Adidas</string>
+    <string name="cantidadZapatos">Amount of shoes</string>
+    <string name="clasico">class</string>
+    <string name="hombre">men</string>
+    <string name="marca">brand</string>
+    <string name="msm_error">" Enter the number of shoes "</string>
+    <string name="mujer">women</string>
+    <string name="nike">nike</string>
+    <string name="puma">puma</string>
+    <string name="sexo">sex</string>
+    <string name="tipoZapato">" Type of shoes"</string>
+    <string name="valorCompra">Purchase value</string>
+    <string name="zaptilla">shoe</string>
+</resources>
